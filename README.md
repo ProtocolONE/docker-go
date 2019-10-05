@@ -1,6 +1,6 @@
 # About this repo
 
-[![Docker Stars](https://img.shields.io/docker/stars/p1hub/docker-go.svg?style=flat)](https://hub.docker.com/r/p1hub/docker-go/) [![Docker Pulls](https://img.shields.io/docker/pulls/p1hub/docker-go.svg?style=flat)](https://hub.docker.com/r/p1hub/docker-go/)
+[![Docker Stars](https://img.shields.io/docker/stars/p1hub/go.svg?style=flat)](https://hub.docker.com/r/p1hub/go/) [![Docker Pulls](https://img.shields.io/docker/pulls/p1hub/go.svg?style=flat)](https://hub.docker.com/r/p1hub/go/)
 
 This is a Dockerfile instructions to build a container image with **Golang** and some additional features  
 
